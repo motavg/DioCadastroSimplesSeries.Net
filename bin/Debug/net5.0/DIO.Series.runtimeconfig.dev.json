@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MotaGamer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MotaGamer\\.nuget\\packages"
+    ]
+  }
+}
